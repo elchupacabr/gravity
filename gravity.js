@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/flyandflake/gravity
 // @version      0.1
-// @description  try to take over the world!
+// @description  try to take gravity the site!
 // @author       You
 // @match        https://www.sssu.ru/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sssu.ru
